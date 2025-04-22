@@ -1,0 +1,10 @@
+{
+  "prompt": "Simple 2D medical diagram of a cell",
+  "enhanced_prompt": "Simple 2D medical diagram of a cell, medical illustration, highly detailed, professional medical diagram, anatomically correct, medical textbook quality, clear lighting",
+  "negative_prompt": "blurry, low quality, low resolution, cropped, text, watermark, signature, out of frame, deformed, ugly, bad anatomy",
+  "num_inference_steps": 20,
+  "guidance_scale": 7.5,
+  "width": 512,
+  "height": 512,
+  "seed": 42
+}
