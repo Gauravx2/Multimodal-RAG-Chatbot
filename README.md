@@ -76,7 +76,7 @@ A powerful Retrieval-Augmented Generation (RAG) chatbot specialized in biomedica
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd biomedical-rag-chatbot
+cd Multimodal-RAG-Chatbot
 ```
 
 2. Create and activate a virtual environment:
