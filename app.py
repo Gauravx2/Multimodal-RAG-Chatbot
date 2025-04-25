@@ -1,4 +1,5 @@
 import cv2
+import streamlit as st
 
 # Update the sidebar image editing section
 if st.session_state.current_image:
